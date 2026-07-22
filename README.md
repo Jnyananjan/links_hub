@@ -19,7 +19,7 @@ It is built as a **Neural OS-style interface** where:
 
 ## 🚀 Live Demo
 
-🌐 [CHECK HARE](jnyananjan.github.io/links_hub/)
+🌐 https://jnyananjan.github.io/links_hub/
 
 ---
 
@@ -58,10 +58,11 @@ It is built as a **Neural OS-style interface** where:
 ## 🔗 Links
 
 - 💻 GitHub → https://github.com/Jnyananjan  
+- 🐦 X → https://x.com/jnyananjan01
 - 🚀 Startup → https://techypad.in  
-- 📷 Instagram → https://www.instagram.com/jana_sarkar_0/  
+- 📷 Instagram → https://www.instagram.com/jnyananjan01/  
 - 🧠 Brand IG → https://www.instagram.com/techy_pad/  
-- 🐦 X → https://x.com/techy_pad  
+- 🐦 Brand X → https://x.com/techy_pad 
 - 💬 Discord → https://discord.com/invite/Q6DdEXugdn  
 - 📧 Email → jnyananjansarkar01@gmail.com  
 
