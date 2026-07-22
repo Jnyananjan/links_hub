@@ -19,7 +19,7 @@ It is built as a **Neural OS-style interface** where:
 
 ## 🚀 Live Demo
 
-🌐 [CHECK HARE](https://jnyananjan.github.io/links/#)
+🌐 [CHECK HARE](jnyananjan.github.io/links_hub/)
 
 ---
 
