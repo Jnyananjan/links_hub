@@ -63,7 +63,9 @@ It is built as a **Neural OS-style interface** where:
 - 📷 Instagram → https://www.instagram.com/jnyananjan01/  
 - 🧠 Brand IG → https://www.instagram.com/techy_pad/  
 - 🐦 Brand X → https://x.com/techy_pad 
-- 💬 Discord → https://discord.com/invite/Q6DdEXugdn  
+- 💬 Discord → https://discord.com/invite/Q6DdEXugdn
+- 💼 LinkedIn → https://www.linkedin.com/in/jnyananjan/
+- 💼 Brand LinkedIn → https://www.linkedin.com/company/techypad/
 - 📧 Email → jnyananjansarkar01@gmail.com  
 
 ---
